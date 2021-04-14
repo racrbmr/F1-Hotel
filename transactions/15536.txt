@@ -1,0 +1,21 @@
+
+                       F1 HOTEL - INDONESIA
+
+  Jl. Tata Krama Timur Blok A. F1 Hotel Tower, JAKARTA - INDONESIA
+
+  -- F1 Hotel Customer Transaction Receipt --
+
+  NAME                 : Bale Freestone
+  NIK/KTP Number       : 317339850005
+  CHECK-IN             : 01-01-2021
+  CHECK-OUT            : 01-03-2021
+  ROOM TYPE            : Deluxe Room
+  DURATION             : 60 NIGHT(S)
+  NORMAL PRICE         : 45000000 IDR
+  DISCOUNT             : [92m99% (CODE: PA7JKA)[0m
+  TOTAL PRICE          : 450000 IDR
+  PAYMENT METHOD       : OVO
+
+  Book Date            : [1m[33m14 Apr 2021 17:19:42[0m
+  Transaction ID       : [1m[31m15536[0m
+  ======================================================

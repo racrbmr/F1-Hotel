@@ -1,0 +1,21 @@
+
+                       F1 HOTEL - INDONESIA
+
+  Jl. Tata Krama Timur Blok A. F1 Hotel Tower, JAKARTA - INDONESIA
+
+  -- F1 Hotel Customer Transaction Receipt --
+
+  NAME                 : Ludvig Cattel
+  NIK/KTP Number       : 317331380001
+  CHECK-IN             : 17-04-2021
+  CHECK-OUT            : 20-04-2021
+  ROOM TYPE            : Executive Room
+  DURATION             : 3 NIGHT(S)
+  NORMAL PRICE         : 3300000 IDR
+  DISCOUNT             : [92m25% (CODE: RFMM9O)[0m
+  TOTAL PRICE          : 2475000 IDR
+  PAYMENT METHOD       : ATM Transfer
+
+  Book Date            : [1m[33m14 Apr 2021 17:25:45[0m
+  Transaction ID       : [1m[31m32204[0m
+  ======================================================

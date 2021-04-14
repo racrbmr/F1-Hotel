@@ -1,0 +1,21 @@
+
+                       F1 HOTEL - INDONESIA
+
+  Jl. Tata Krama Timur Blok A. F1 Hotel Tower, JAKARTA - INDONESIA
+
+  -- F1 Hotel Customer Transaction Receipt --
+
+  NAME                 : Shay Laughren
+  NIK/KTP Number       : 31739930008
+  CHECK-IN             : 06-01-2021
+  CHECK-OUT            : 09-01-2021
+  ROOM TYPE            : Executive Room
+  DURATION             : 3 NIGHT(S)
+  NORMAL PRICE         : 3300000 IDR
+  DISCOUNT             : [92m-[0m
+  TOTAL PRICE          : 3300000 IDR
+  PAYMENT METHOD       : Cash
+
+  Book Date            : [1m[33m14 Apr 2021 17:18:30[0m
+  Transaction ID       : [1m[31m27356[0m
+  ======================================================

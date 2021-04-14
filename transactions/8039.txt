@@ -1,0 +1,21 @@
+
+                       F1 HOTEL - INDONESIA
+
+  Jl. Tata Krama Timur Blok A. F1 Hotel Tower, JAKARTA - INDONESIA
+
+  -- F1 Hotel Customer Transaction Receipt --
+
+  NAME                 : Laode Muhamad Firdaus
+  NIK/KTP Number       : 317356440007
+  CHECK-IN             : 05-02-2021
+  CHECK-OUT            : 07-02-2021
+  ROOM TYPE            : Deluxe Room
+  DURATION             : 2 NIGHT(S)
+  NORMAL PRICE         : 1500000 IDR
+  DISCOUNT             : [92m-[0m
+  TOTAL PRICE          : 1500000 IDR
+  PAYMENT METHOD       : ATM Transfer
+
+  Book Date            : [1m[33m14 Apr 2021 17:05:52[0m
+  Transaction ID       : [1m[31m8039[0m
+  ======================================================

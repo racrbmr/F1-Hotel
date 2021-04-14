@@ -1,0 +1,42 @@
+: '
+                       F1 HOTEL - INDONESIA
+
+  Jl. Tata Krama Timur Blok A. F1 Hotel Tower, JAKARTA - INDONESIA
+
+    --- DISCOUNT CODE LISTS ---
+
+    YOU CAN EDIT DISCOUNT CODE HERE AT ANY TIME.
+'
+
+##    == BIG 10 ==
+
+    percent_10=("SB047L" "10%" 10) 
+    percent_20=("18GKR6" "20%" 20)
+    percent_30=("X3N7F3" "30%" 30)
+    percent_40=("SDY1G6" "40%" 40)
+    percent_50=("WHU4EY" "50%" 50)
+    percent_60=("63VE8J" "60%" 60)
+    percent_70=("ZHXUJA" "70%" 70)
+    percent_80=("G8NEDS" "80%" 80)
+    percent_90=("TTGWJT" "90%" 90)
+    percent_100=("QG4WIL" "100%" 100)
+
+##    == BIG 25 ==
+
+    percent_5_25=("RFMM9O" "25%" 25)
+    percent_5_75=("KJ7M01" "75%" 75)
+
+##    == BIG 69 ==
+    
+    percent_6_16=("K0L1K2" "16%" 16)
+    percent_6_69=("FJSR2D" "69%" 69)
+    percent_6_77=("6WHOBE" "77%" 77)
+
+##    == BIG 33 ==
+
+    percent_3_33=("RG7BX5" "33%" 33)
+    percent_3_66=("FKPEE4" "66%" 66) 
+    percent_3_99=("PA7JKA" "99%" 99)
+
+
+## CURRENTLY ACTIVE : 10%, 25%, 30%, 33%, 50%, 69%, 75%, 80%, 99%

@@ -1,0 +1,21 @@
+
+                       F1 HOTEL - INDONESIA
+
+  Jl. Tata Krama Timur Blok A. F1 Hotel Tower, JAKARTA - INDONESIA
+
+  -- F1 Hotel Customer Transaction Receipt --
+
+  NAME                 : Jasun Artinstall
+  NIK/KTP Number       : 317321880005
+  CHECK-IN             : 12-09-2020
+  CHECK-OUT            : 18-09-2020
+  ROOM TYPE            : Executive Room
+  DURATION             : 6 NIGHT(S)
+  NORMAL PRICE         : 6600000 IDR
+  DISCOUNT             : [92m50% (CODE: WHU4EY)[0m
+  TOTAL PRICE          : 3300000 IDR
+  PAYMENT METHOD       : Cash
+
+  Book Date            : [1m[33m14 Apr 2021 17:14:33[0m
+  Transaction ID       : [1m[31m17997[0m
+  ======================================================

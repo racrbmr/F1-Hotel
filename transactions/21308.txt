@@ -1,0 +1,21 @@
+
+                       F1 HOTEL - INDONESIA
+
+  Jl. Tata Krama Timur Blok A. F1 Hotel Tower, JAKARTA - INDONESIA
+
+  -- F1 Hotel Customer Transaction Receipt --
+
+  NAME                 : Rizki Roihan Soeharto
+  NIK/KTP Number       : 3173857340007
+  CHECK-IN             : 13-01-2021
+  CHECK-OUT            : 20-01-2021
+  ROOM TYPE            : Executive Room
+  DURATION             : 7 NIGHT(S)
+  NORMAL PRICE         : 7700000 IDR
+  DISCOUNT             : [92m16% (CODE: K0L1K2)[0m
+  TOTAL PRICE          : 6468000 IDR
+  PAYMENT METHOD       : M-Banking
+
+  Book Date            : [1m[33m14 Apr 2021 17:04:17[0m
+  Transaction ID       : [1m[31m21308[0m
+  ======================================================

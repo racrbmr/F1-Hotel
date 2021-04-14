@@ -1,0 +1,21 @@
+
+                       F1 HOTEL - INDONESIA
+
+  Jl. Tata Krama Timur Blok A. F1 Hotel Tower, JAKARTA - INDONESIA
+
+  -- F1 Hotel Customer Transaction Receipt --
+
+  NAME                 : Alley Pither
+  NIK/KTP Number       : 317384830004
+  CHECK-IN             : 20-04-2021
+  CHECK-OUT            : 25-04-2021
+  ROOM TYPE            : Royal Suite Room
+  DURATION             : 5 NIGHT(S)
+  NORMAL PRICE         : 11250000 IDR
+  DISCOUNT             : [92m30% (CODE: X3N7F3)[0m
+  TOTAL PRICE          : 7875000 IDR
+  PAYMENT METHOD       : M-Banking
+
+  Book Date            : [1m[33m14 Apr 2021 17:24:21[0m
+  Transaction ID       : [1m[31m24444[0m
+  ======================================================

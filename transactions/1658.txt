@@ -1,0 +1,21 @@
+
+                       F1 HOTEL - INDONESIA
+
+  Jl. Tata Krama Timur Blok A. F1 Hotel Tower, JAKARTA - INDONESIA
+
+  -- F1 Hotel Customer Transaction Receipt --
+
+  NAME                 : Mirella Bicheno
+  NIK/KTP Number       : 317327890009
+  CHECK-IN             : 30-02-2021
+  CHECK-OUT            : 31-02-2021
+  ROOM TYPE            : Royal Suite Room
+  DURATION             : 1 NIGHT(S)
+  NORMAL PRICE         : 2250000 IDR
+  DISCOUNT             : [92m10% (CODE: SB047L)[0m
+  TOTAL PRICE          : 2025000 IDR
+  PAYMENT METHOD       : ATM Transfer
+
+  Book Date            : [1m[33m14 Apr 2021 17:17:44[0m
+  Transaction ID       : [1m[31m1658[0m
+  ======================================================

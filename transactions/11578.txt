@@ -1,0 +1,21 @@
+
+                       F1 HOTEL - INDONESIA
+
+  Jl. Tata Krama Timur Blok A. F1 Hotel Tower, JAKARTA - INDONESIA
+
+  -- F1 Hotel Customer Transaction Receipt --
+
+  NAME                 : Berti Brockie
+  NIK/KTP Number       : 317321150007
+  CHECK-IN             : 09-04-2021
+  CHECK-OUT            : 11-04-2021
+  ROOM TYPE            : Executive Room
+  DURATION             : 2 NIGHT(S)
+  NORMAL PRICE         : 2200000 IDR
+  DISCOUNT             : [92m33% (CODE: RG7BX5)[0m
+  TOTAL PRICE          : 1474000 IDR
+  PAYMENT METHOD       : M-Banking
+
+  Book Date            : [1m[33m14 Apr 2021 17:29:13[0m
+  Transaction ID       : [1m[31m11578[0m
+  ======================================================
