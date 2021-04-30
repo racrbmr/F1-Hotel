@@ -5,7 +5,9 @@
 # F1 Hotel
 F1 Hotel is a Bash scripting application that allows customers to look room information of the hotel, book reservation, and cancel reservation with ease.
 
-# App in action
+---
+
+# App in action SCREENSHOTS
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56998497/114735930-d8d99180-9d6f-11eb-96c9-16293962fcd0.png" width="600" length="600"/>
 </p>
@@ -26,6 +28,25 @@ F1 Hotel is a Bash scripting application that allows customers to look room info
 </p>
 
 ---
+# App in action GIF
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56998497/116739093-7ba33880-aa1d-11eb-9a8c-2a3a42e63827.gif" width="900" length="900"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56998497/116740040-a5109400-aa1e-11eb-8da4-c0e58c6fbc4e.gif" width="900" length="900"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56998497/116740714-95457f80-aa1f-11eb-9ed2-28bc40701bf4.gif" width="900" length="900"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56998497/116741135-21f03d80-aa20-11eb-8580-d1e85b64a3e0.gif" width="900" length="900"/>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/56998497/116747732-9038fe00-aa28-11eb-893a-659ce20cd656.gif" width="900" length="900"/>
+</p>
+
+---
 
 > This is a project that made by author Rizki Roihan Soeharto and author
 Laode Muhamad Firdaus for fulfilling requirements of Project 10 at
@@ -34,3 +55,6 @@ CEP CCIT-FTUI.
 >> **Author:**
 >> - [Rizki Roihan Soeharto (racrbmr)](https://github.com/racrbmr)
 >> - [Laode Muhamad Firdaus](https://github.com/laode308)
+>> 
+
+---
